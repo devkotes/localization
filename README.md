@@ -1,4 +1,4 @@
-# podcoder_localization
+# localization
 
 A new Flutter project.
 
